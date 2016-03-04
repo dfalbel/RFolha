@@ -1,0 +1,12 @@
+Package: rfolha
+Type: Package
+Title: Ferramenta para baixar notícias do site da Folha de SP
+Version: 0.1
+Date: 2016-03-04
+Author: Daniel Falbel
+Maintainer: Daneil Falbel <dfalbel@gmail.com>
+Description: Esse pacote do R auxilia o download de notícias do site da Folha de
+SP. Esses dados podem ser úteis em diversos tipos de pesquisa.
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
