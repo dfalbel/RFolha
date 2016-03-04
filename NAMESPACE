@@ -2,3 +2,5 @@
 
 export(baixar_pag_busca)
 export(query)
+export(tabelar_busca)
+export(tabelar_pagina)
