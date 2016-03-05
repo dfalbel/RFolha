@@ -1,0 +1,782 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html lang="pt-BR" class="no-js lt-ie9 lt-ie8 lt-ie7" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>         <html lang="pt-BR" class="no-js lt-ie9 lt-ie8" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>         <html lang="pt-BR" class="no-js lt-ie9" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="pt-BR" class="no-js" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+	<head>
+		<title>Pinheiros  - Clube social - Ber&#231;os Ol&#237;mpicos | Folha</title>
+		
+		<meta name="description" content="Pinheiros ganhou 10% das medalhas do Brasil em Olimp&#237;adas e segue formando atletas">
+		
+		
+		
+
+
+<!-- publish -->
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Thu, 01 Jan 1970 00:00:00 GMT">
+<meta http-equiv="Cache-Control" content="no-store">
+<meta name="robots" content="noindex,noarchive">
+
+
+<!-- redirect -->
+<meta http-equiv="Refresh" content="0; url=http://www.folha.uol.com.br/">
+<script><!--
+location.replace( "http://www.folha.uol.com.br/" ) ;
+//--></script>
+<link rel="canonical" href="http://www.folha.uol.com.br/">
+<!-- /redirect -->
+
+
+<!-- /publish -->
+
+
+
+<!--//-->
+
+
+		<!-- head -->
+		<meta charset="windows-1252">
+		<link rel="icon" href="http://f.i.uol.com.br/favicon.ico">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8"><![endif]-->
+
+		<!-- social media -->
+		<!-- opengraph -->
+		
+		<!-- /opengraph -->
+
+		<!-- css -->
+		<!--@tochange-->
+		<link rel="stylesheet" href="http://static.folha.uol.com.br/temas/common/css/1/common/bootstrap.min.css">
+		<link rel="stylesheet" href="http://static.folha.uol.com.br/temas/common/css/1/common/base.css?20160301">
+		<!--/@tochange-->
+
+		<!-- js -->
+		<script src="http://static.folha.uol.com.br/library/modernizr/2.6.2/modernizr.js"></script>
+		<!--[if lt IE 9]><script src="http://static.folha.uol.com.br/library/respond/1.4.2/respond.min.js"></script><![endif]-->
+		<script src="http://static.folha.uol.com.br/library/jquery/1.11.2/jquery.min.js"></script>
+		<script src="http://static.folha.uol.com.br/library/mustache/0.5.0/mustache.js"></script>
+		<!--@tochange-->
+		<script src="http://static.folha.uol.com.br/temas/common/js/1/common/plugins.js"></script>
+		<script src="http://static.folha.uol.com.br/temas/common/js/1/common/common.js?20160301"></script>
+		<script src="http://static.folha.uol.com.br/temas/common/js/1/common/app.js?20160301"></script>
+		<!--/@tochange-->
+
+		<!-- navegg -->
+		<script src="//tag.navdmp.com/tm23947.js" id="navegg"></script>
+
+<script>
+folha.information.query_string = "20160301" ;
+
+folha.information.section = "temas" ;
+folha.information.channel = "especial.bercos-olimpicos" ;
+folha.information.page.channel = "Esporte" ;
+
+
+folha.tag_manager.banners = [] ;
+</script>
+
+<!-- morpheus :: 122783 -->
+<link rel="stylesheet" href="/bercos-olimpicos/virtual/1/common/theme.css?20160301">
+
+<!-- // -->
+
+<script>folha.tag_manager.create() ;</script>
+<script src="http://tm.uol.com.br/h/par/folha.js"></script>
+
+		<!-- /head -->
+
+
+		
+			<link rel="canonical" href="http://temas.folha.uol.com.br/bercos-olimpicos/clube-social/pinheiros.shtml">
+		
+
+<script>
+folha.information.page.subchannel = [ "Temas" , "Ber&#231;os Ol&#237;mpicos" , "Clube social" ] ;
+folha.information.page.type = "card" ;
+folha.information.page.title = "Pinheiros" ;
+</script>
+
+	</head>
+	<body>
+
+		
+
+
+		<div class="container">
+			<script>
+// Folha ads
+var folha_ads = false ;
+// Loaded folha ads 
+$.ajax( {
+	url: "//static.folha.uol.com.br/paywall/js/1/publicidade.ads.json" ,
+	dataType: "jsonp" ,
+	jsonpCallback: "get" ,
+} )
+.done(function(data) {
+	folha_ads = data.ads ;
+} ) ;
+</script>
+
+<script src="http://www1.folha.uol.com.br/folha/furniture/paywall/loader.js?t=20151223"></script>
+
+
+<!-- header -->
+<div class="row"> <!-- navigation -->
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	<!--barra Uol-->
+	<script src="http://jsuol.com.br/barra/parceiro.js?parceiro=folha"></script>
+	<!--/barra Uol-->
+		<header class="top-navigation">
+			<div class="wrapper">
+				<a href="http://folha.uol.com.br/"><h2 class="sprite logo">Folha de São Paulo</h2></a>
+				<a href="/bercos-olimpicos"><h1 class="container-title">Ber&#231;os Ol&#237;mpicos</h1></a>
+
+				<nav role="navigation" class="navbar">
+					<p class="title-menu-nav">menu</p>
+					<div class="sprite btn-menu" data-app="menu" data-src="virtual/1/common/season.json" data-template="#tmpl-menu"></div>
+				</nav>
+
+			</div>
+		</header>
+	</div>
+</div> <!-- /navigation -->
+
+<!--//-->
+
+
+
+			<div id="content">
+
+
+
+<article id="s02e01" class="content s02 e01" data-season="2" data-episode="1">
+
+	<div class="row">
+		<div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-11 col-xs-12">
+			<!-- toolbar -->
+			<div class="share">
+	<div class="toolbar">
+		<div data-share-buttons="facebook whatsapp twitter googleplus linkedin email" data-share-button-facebook-text="Compartilhar" data-share-url="http://temas.folha.uol.com.br/bercos-olimpicos/clube-social/pinheiros.shtml" data-share-twitter-text="Pinheiros"></div>
+	</div>
+</div>
+
+			<!-- /toolbar -->
+
+			<time class="date" datetime="2016-03-04 16:33:49">04/03/2016 <i class="icon-clock"><svg height="12" width="12" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg" version="1.1"><use x="0" y="0" fill="#000" xlink:href="#clock"></use></svg></i> 16:33</time>
+			<div class="season-description">Clube social</div>
+		</div>
+	</div>
+
+<div class="row"><div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-11 col-xs-12"><div class="embed-container"><iframe src="http://arte.folha.uol.com.br/esporte/2016/03/05/images-aberturas/?image=http://f.i.uol.com.br/folha/especial/images/16062191.jpeg" frameborder="0" width="100%" height="470"></iframe></div></div></div>
+	<div class="row">
+		<div class="col-lg-7 col-lg-offset-1 col-md-9 col-sm-8 col-xs-12">
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<header class="season">
+	<div class="call-to-episode">
+				<div class="episode-title">
+						<h1 class="name-episode">Pinheiros</h1>
+					</div>
+		
+			</div>
+
+</header>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+										<div class="text"><p>
+<b>MARIANA LAJOLO</b><br>
+COLUNISTA DA <b>FOLHA</b>
+</p>
+
+<p>
+Quando o nadador Cesar Cielo, ainda um garoto de 15 anos, decidiu defender as cores do Pinheiros, tinha um argumento irrefutável: treinar ao lado de Gustavo Borges.
+</p>
+
+<p>
+Aí começou a passagem de bastão. O veterano, dono de quatro medalhas em Olimpíadas, foi inspiração e incentivo para o novato traçar o caminho que o levou ao inédito ouro seis anos depois.
+</p>
+
+<p>
+Só o exemplo, no entanto, não basta. E como Cielo, diversos atletas -ou seus pais- procuram o clube há anos em busca de uma equação: boa estrutura somada a profissionais competentes e esportistas de alto nível.
+</p>
+
+<p>
+O Pinheiros enviou seus primeiros atletas aos Jogos em 1932. Os pinheirenses já conquistaram dez medalhas olímpicas ou quase 10% de todos os pódios do Brasil na história. Em Londres-2012, 22 atletas do clube estavam em ação na delegação de 259 pessoas.
+</p>
+
+<iframe src="https://sketchfab.com/models/8480a63ac8da432d882d48cae71539a2/embed?annotation_cycle=5&autostart=1&ui_infos=0&ui_related=0?w=620&h=450" height="450" width="100%"></iframe>
+
+<p>
+"O alto rendimento incentiva a formação. O sucesso é esse. Os sócios usufruem de toda nossa estrutura, mas procuram o clube mesmo pelo esporte. Querem dar uma atividade, uma formação extra para os filhos", diz o diretor de esportes, Arnaldo Pereira.
+</p>
+
+<p>
+No início, pode ser só brincadeira. Mas para muitos acaba se tornando coisa séria.
+</p>
+
+<p>
+A esgrimista Bia Bulcão, 22, é um exemplo. Ela é fruto do CAD (Centro de Aprendizagem Desportivo), projeto que visa mostrar de forma lúdica e recreativa 12 modalidades para sócios de 3 a 11 anos.
+</p>
+
+<p>
+Após o primeiro contato, as crianças recebem indicações de quais esportes casam melhor com suas habilidades.
+</p>
+
+<p>
+Bia foi direcionada para atletismo e handebol. Mas, como estudava em período integral, só conseguia chegar a tempo da aula de esgrima.
+</p>
+
+<p>
+"Gostei de cara. Depois da segunda ou terceira aulas, o técnico já disse à minha mãe que eu ia longe." Hoje, ela busca vaga na Rio-2016.
+</p>
+
+<p>
+Bia integra um universo de 4.663 atletas, da formação aos profissionais, cerca de 90% deles associados. Destes, só 296 são de alto rendimento.
+</p>
+
+<table class="articleGraphic"><tr><td rowspan="3" class="articleGraphicSpace"/>
+<td class="articleGraphicCredit">Adriano Vizoni/Folhapress</td>
+<td rowspan="3" class="articleGraphicSpace"/>
+</tr><tr><td class="articleGraphicImage"><img src="http://f.i.uol.com.br/folha/especial/images/16062190.jpeg" width="620" height="413" alt="Piscina coberta do Pinheiros" border="0"></td>
+</tr><tr><td class="articleGraphicCaption">Piscina coberta do Pinheiros</td>
+</tr></table><p>
+Mas não é necessário ser sócio para defender o Pinheiros. A maratonista Adriana Aparecida da Silva nem podia correr quando foi procurada por Cláudio Castilho. O treinador queria apostar nela, mesmo com seu tornozelo operado. O clube aceitou.
+</p>
+
+<p>
+"Entrei no Pinheiros de muleta", afirma a atleta.
+</p>
+
+<p>
+Hoje, divide a pista com sócios que gostam de correr. Duas raias são separadas para treinos de alto rendimento. Nas demais, a corrida é livre.
+</p>
+
+<p>
+"Não temos problema. Os amadores gostam de correr com a gente e se espelham nos nossos treinos", diz.
+</p>
+
+<p>
+A convivência, no entanto, nem sempre é 100% harmoniosa. Certa vez, a diretoria de natação teve de chamar um médico para explicar qual seria a melhor temperatura para a água da piscina. Os atletas queriam fria, os sócios, mais quente.
+</p>
+
+<p>
+O dinheiro dos associados banca a maior parte do investimento. Em 2015, foi 60% dos R$ 48 milhões gastos em 22 modalidades (16 olímpicas). Os outros 40% saíram de patrocínios, projetos via lei de incentivo fiscal e convênios.
+</p>
+
+<table class="articleGraphic"><tr><td rowspan="3" class="articleGraphicSpace"/>
+<td class="articleGraphicCredit">Adriano Vizoni/Folhapress</td>
+<td rowspan="3" class="articleGraphicSpace"/>
+</tr><tr><td class="articleGraphicImage"><img src="http://f.i.uol.com.br/folha/especial/images/16062189.jpeg" width="620" height="413" alt="Ginastas treinam no ginásio do Pinheiros" border="0"></td>
+</tr><tr><td class="articleGraphicCaption">Ginastas treinam no ginásio do Pinheiros</td>
+</tr></table><p>
+O apoio ao esporte olímpico é antigo. Desde a fundação, em 1899, remo, natação e atletismo eram incentivados. Havia uma piscina delimitada dentro do rio que tem o mesmo nome do clube e hoje corta a cidade poluído.
+A equipe atual de natação usa blocos de largada oficiais, como os usados na Olimpíada.
+</p>
+
+<p>
+"Quando cheguei, procuravam o Pinheiros porque tinha ônibus de graça para competições, uniforme, hotel e alimentação, hoje itens básicos", diz Alberto Pinto, técnico principal da equipe de natação. Entre idas e vindas, ele está no clube há 25 anos.
+</p>
+
+<p>
+"Hoje, há estrutura e pessoas que procuram se destacar no que fazem. Isso acaba atraindo mais pais e atletas."
+</p>
+
+<p>
+Atrai até gente do outro lado do mundo. O Pinheiros será a base da China para os Jogos. Eles pagarão R$ 14 milhões para usar as instalações do clube. O país é uma potência esportiva e quer ser o melhor da Olimpíada. Começou escolhendo uma fonte de medalhas para se preparar.
+</p></div>
+					
+
+				</div>
+
+
+			</div>
+		</div>
+
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			<aside class="infos-block">
+
+<section class="aside-box default destaque-atletismo">
+	<header>
+						<h3 class="column-title">DESTAQUE - atletismo</h3>
+			</header>
+
+	<img src="http://f.i.uol.com.br/folha/esporte/images/16063308.jpeg" alt="">	<div class="description">
+	<span class="kicker">JOÃO DO PULO</span> <p>O Pinheiros ganhou mais medalhas olímpicas na natação e no judô. A  exceção é o saltador, bronze nos Jogos de 1976 pelo clube.</p>
+<p></p>	</div>
+</section>
+<section class="aside-box default destaque-natacao">
+	<header>
+						<h3 class="column-title">DESTAQUE - natação</h3>
+			</header>
+
+	<img src="http://f.i.uol.com.br/folha/esporte/images/16063318.jpeg" alt="">	<div class="description">
+	<span class="kicker">GUSTAVO BORGES E BRUNO FRATUS</span> <p>O Pinheiros tem tradição de bons velocistas na piscina. Borges ganhou uma prata em Barcelona-1992, um bronze e uma prata em Atlanta-1996 e um bronze em Sydney-2000. Hoje, o principal nome do clube é Bruno Fratus, que conquistou a medalha de bronze nos 50 m livre no Mundial de 2015.</p>	</div>
+</section>
+<section class="aside-box default raio-x">
+	<header>
+						<h3 class="column-title">RAIO-X</h3>
+			</header>
+
+		<div class="description">
+	<p><b>Investimento:</b> R$ 48 milhões em 2015<br><b>Área total:</b> 170 mil m²<br><b>Funcionários:</b> XX<br><b>Total de associados:</b> 38 mil<br><b>Total de atletas:</b> 4.663<br><b>Modalidades olímpicas:</b> 16 <br><b>Atletas em Londres:</b> 22<br><b>Onde fica:</b> Rua Angelina Maffei Vita, 493, Jardim Europa, São Paulo (SP)</p>
+<p><br>* 16 de alto rendimento</p>	</div>
+</section>
+<section class="aside-box default esporte-paraolimpico">
+	<header>
+						<h3 class="column-title">ESPORTE PARAOLÍMPICO</h3>
+			</header>
+
+		<div class="description">
+	<p>O clube tem atividades de esgrima, remo, natação e atletismo para atletas deficientes. Nos Jogos Paraolímpicos de Londres-2012, havia três esportistas pinheirenses: André Brasil, da natação, e Cláudia Santos e Jairo Natanael, do remo. O nadador conquistou cinco medalhas, três de ouro e duas de prata. Cláudia ficou na quarta colocação </p>	</div>
+</section>
+
+			</aside>
+		</div>
+	</div>
+
+
+</article>
+<!--//-->
+
+				
+<div class="row">
+	<div class="ads">
+		<div class="col-sm-offset-1 col-md-offset-2 col-lg-4 col-md-4 col-sm-5 col-xs-12 img-responsive">
+			<div class="season-ads ad-box-300x250">
+				<iframe src="http://temas.folha.uol.com.br/bercos-olimpicos/ads/300x250-1.shtml"></iframe>
+			</div>
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-5 col-xs-12">
+			<div class="season-ads ad-box-300x250">
+				<iframe src="http://temas.folha.uol.com.br/bercos-olimpicos/ads/300x250-2.shtml"></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+			</div>
+
+		</div>
+
+		
+
+<script id="tmpl-menu" type="text/template">
+<ul class="nav">
+{{#.}}
+<li class="season-description">
+	<a href="javascript:void(0);" class="season-name">{{season}}</a>
+	<ul class="episode">
+		{{#episodes}}
+		<li>
+			<a href="http://temas.folha.uol.com.br/bercos-olimpicos/{{menu_url}}#s{{season_str}}e{{episode_str}}" data-uri="#s{{season_str}}e{{episode_str}}">{{episode_name}}</a>
+		</li>
+		{{/episodes}}
+	</ul>
+</li>
+{{/.}}
+</ul>
+</script>
+
+<script id="tmpl-episode" type="text/template">
+<article id="s{{season_str}}e{{episode_str}}" class="content e{{season_str}} e{{episode_str}}" data-season="{{season}}" data-episode="{{episode}}">
+	<div class="row">
+		<div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-11 col-xs-12">
+			<!-- toolbar -->
+			<div class="share">
+				<div class="toolbar">
+					<div data-share-buttons="facebook whatsapp twitter googleplus linkedin" data-share-button-facebook-text="Compartilhar" data-share-url="http://temas.folha.uol.com.br/bercos-olimpicos/{{url}}" data-share-twitter-text="{{title}}"></div>
+				</div>
+			</div>
+			<!-- /toolbar -->
+
+			<time class="date" datetime="{{modificated_as_iso}}">{{modificated_date}} <i class="icon-clock">{{&clock}}</i> {{modificated_time}}</time>
+
+			<div class="season-description">{{group_name}}</div>
+		</div>
+	</div>
+
+	{{#iframe_before}}
+	<div class="row">
+		<div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-11 col-xs-12">
+			<div class="embed-container">
+				<iframe src="{{url}}" frameborder="0" width="100%%" height="{{height}}"></iframe>
+			</div>
+		</div>
+	</div>
+	{{/iframe_before}}
+
+	<div class="row">
+		<div class="col-lg-7 col-lg-offset-1 col-md-9 col-sm-8 col-xs-12">
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<header class="season">
+
+						<div class="call-to-episode">
+							<div class="episode-title">
+								<h2 class="name-episode">{{title}}</h2>
+							</div>
+
+							{{#header}}
+
+							{{#figure}}
+							<figure class="figure-block">
+								<img alt="{{alt}}" src="{{image}}">
+								{{#caption}}
+								<figcaption class="description">
+									{{#icon}}
+									<span class="icon"><img src="{{icon}}" alt="{{#iconalt}}{{iconalt}}{{/iconalt}}{{^iconalt}}Ícone descritivo sobre a legenda{{/iconalt}}"></span>
+									{{/icon}}
+									<div class="description">
+										{{#kicker}}
+										<strong>{{kicker}}</strong>
+										{{/kicker}}
+										{{description}}
+									</div>
+								</figcaption>
+								{{/caption}}
+							</figure>
+							{{/figure}}
+
+							{{#video}}
+							<div class="header-video video {{video_format}}">
+								<iframe src="{{url}}" frameborder="0" width="100%"></iframe>
+							</div>
+							{{/video}}
+
+							{{#iframe}}
+							<div class="header-iframe embed-container">
+								<iframe src="{{url}}" frameborder="0" width="100%" height="{{height}}"></iframe>
+							</div>
+							{{/iframe}}
+
+							{{/header}}
+
+						</div>
+
+					</header>
+				</div>
+
+				{{#cover}}
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+				{{/cover}}
+				{{^cover}}
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+				{{/cover}}
+
+					{{#text}}
+					<div class="text">
+						{{&text}}
+					</div>
+					{{/text}}
+
+					{{#quote}}
+					<blockquote class="blockquote">
+						<header class="header">
+							{{#image}}
+							<img src="{{url}}" alt="{{alt}}">
+							{{/image}}
+							<span class="apostrofe">{{&apostrophe}}</span>
+						</header>
+						{{#citation}}
+						<div class="content">
+							<p class="text">{{citation}}</p>
+						</div>
+						{{/citation}}
+						<footer class="footer">
+							<p>
+								{{#character}}
+								<strong>{{character}}</strong>{{#situation}},{{/situation}}
+								{{/character}}
+								{{#situation}}{{situation}}{{/situation}}
+							</p>
+						</footer>
+					</blockquote>
+					{{/quote}}
+
+					{{#has_headlines}}
+					<ul class="timeline">
+						{{#headline}}
+						<li class="item">
+							{{#url}}
+							<a class="description" href="{{url}}">
+								{{#kicker}}
+								<span>{{kicker}}</span>
+								{{/kicker}}
+								{{description}}
+							</a>
+							{{/url}}
+							{{^url}}
+							<div class="description">
+								{{#kicker}}
+								<span>{{kicker}}</span>
+								{{/kicker}}
+								{{description}}
+							</div>
+							{{/url}}
+						</li>
+						{{/headline}}
+					</ul>
+					{{/has_headlines}}
+
+				</div>
+
+				{{#cover}}
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+					<div class="cover">
+						{{#url}}
+						<a href="{{url}}">
+						{{/url}}
+							{{#image}}
+							<figure class="figure-block">
+								<img alt="{{credit}}" src="{{image}}">
+								{{#caption}}
+								<figcaption class="description">
+									{{#icon}}
+									<span class="icon"><img src="{{icon}}" alt="{{#iconalt}}{{iconalt}}{{/iconalt}}{{^iconalt}}Ícone descritivo sobre a legenda{{/iconalt}}"></span>
+									{{/icon}}
+									<div class="description">
+										{{#kicker}}
+										<strong>{{kicker}}</strong>
+										{{/kicker}}
+										{{description}}
+									</div>
+								</figcaption>
+								{{/caption}}
+							</figure>
+							{{/image}}
+						{{#url}}
+						</a>
+						{{/url}}
+					</div>
+				</div>
+				{{/cover}}
+			</div>
+		</div>
+
+		<div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+			<aside class="infos-block">
+
+			{{#sidebar}}
+
+				{{#default}}{{#content}}
+				<section class="aside-box default {{slug}}">
+					<header>
+						{{#icon}}
+						<span class="icon"><img src="{{icon}}" alt="{{#iconalt}}{{iconalt}}{{/iconalt}}{{^iconalt}}Ícone descritivo sobre a legenda{{/iconalt}}"></span>
+						{{/icon}}
+						<h3 class="column-title">{{name}}</h3>
+					</header>
+
+					{{#image}}
+					<img src="{{url}}" alt="{{alt}}">
+					{{/image}}
+					<div class="description">
+						{{#kicker}}
+						<span>{{kicker}}</span>
+						{{/kicker}}
+						{{#description}}
+						{{&description}}
+						{{/description}}
+					</div>
+				</section>
+				{{/content}}{{/default}}
+
+				{{#soundtrack}}{{#content}}
+				<section class="aside-box soundtrack">
+					<header>
+						{{#icon}}
+						<span class="icon"><img src="{{icon}}" alt="{{#iconalt}}{{iconalt}}{{/iconalt}}{{^iconalt}}Ícone descritivo sobre a legenda{{/iconalt}}"></span>
+						{{/icon}}
+						<h3 class="column-title">Trilha Sonora</h3>
+					</header>
+
+					{{#tracks}}
+					<div class="song-about">
+						{{#track}}
+						{{#url}}
+						<div class="player-container">
+							<a class="name" href="{{url}}">{{track}}</a>
+							{{#artist}}<div class="author">{{artist}}</div>{{/artist}}
+						</div>
+						{{/url}}
+						{{^url}}
+						<span class="name">{{track}}</span>
+						{{#artist}}<div class="author">{{artist}}</div>{{/artist}}
+						{{/url}}
+						{{/track}}
+						{{#description}}
+						<div class="text">{{&description}}</div>
+						{{/description}}
+					</div>
+					{{/tracks}}
+
+				</section>
+				{{/content}}{{/soundtrack}}
+
+			{{/sidebar}}
+
+			</aside>
+		</div>
+	</div>
+
+	{{#iframe_after}}
+	<div class="row">
+		<div class="col-lg-10 col-lg-offset-1 col-md-12 col-sm-11 col-xs-12">
+			<div class="embed-container">
+				<iframe src="{{url}}" frameborder="0" width="100%%" height="{{height}}"></iframe>
+			</div>
+		</div>
+	</div>
+	{{/iframe_after}}
+
+	
+<div class="row">
+	<div class="ads">
+		<div class="col-sm-offset-1 col-md-offset-2 col-lg-4 col-md-4 col-sm-5 col-xs-12 img-responsive">
+			<div class="season-ads ad-box-300x250">
+				<iframe src="http://temas.folha.uol.com.br/bercos-olimpicos/ads/300x250-1.shtml"></iframe>
+			</div>
+		</div>
+
+		<div class="col-lg-4 col-md-4 col-sm-5 col-xs-12">
+			<div class="season-ads ad-box-300x250">
+				<iframe src="http://temas.folha.uol.com.br/bercos-olimpicos/ads/300x250-2.shtml"></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+</article>
+</script>
+
+
+<!-- app -->
+<script>
+window.folha.temas
+	.prepare( '/bercos-olimpicos/', 'Ber&#231;os Ol&#237;mpicos' )
+	.init( {
+		guide: {
+			ajax: {
+				url: "/bercos-olimpicos/virtual/1/common/season.json"
+			}
+		},
+		app: {
+			omniture: {
+				channel: "Esporte"
+			}
+		}
+	} ) ;
+</script>
+<!-- /app -->
+
+<!-- Tag Manager -->
+<script>folha.tag_manager.forbidden() ;</script>
+
+
+
+
+
+
+
+<script>folha.tag_manager.check() ;</script>
+<script src="//tm.uol.com.br/b/par/folha.js"></script>
+<!-- /Tag Manager -->
+
+
+<!-- Omniture -->
+<script>folha.information.check() ;</script>
+<script src="//me.jsuol.com.br/omtr/folhacom.js"></script>
+<!-- /Omniture -->
+
+
+<!-- IVC -->
+<script>
+	var ivcUrl = ("https:" == document.location.protocol ? "https://datpdpmej1fn2.cloudfront.net/" :
+	"http://ivccftag.ivcbrasil.org.br/") + "ivc.js";
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalIvcNamespace=p.GlobalIvcNamespace||[];
+	p.GlobalIvcNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+	};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+	n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script",ivcUrl,"ivc")); 
+
+	window.ivc('newTracker', 'cf', 'ivccf.ivcbrasil.org.br', {
+		idWeb: '125'
+	}); 
+
+	window.ivc('trackPageView'); 
+</script>
+<!-- IVC -->
+
+
+<!-- Chartbeat -->
+<script type='text/javascript'>
+		var _sf_async_config={};
+		/** CONFIGURATION START **/
+		_sf_async_config.uid = 50059;
+		_sf_async_config.domain = 'folha.com.br';
+		_sf_async_config.useCanonical = true;
+		_sf_async_config.sections = 'temas'; //CHANGE THIS
+		_sf_async_config.authors = 'Folha'; //CHANGE THIS
+		/** CONFIGURATION END **/
+		(function(){
+		function loadChartbeat() {
+		window._sf_endpt=(new Date()).getTime();
+		var e = document.createElement('script');
+		e.setAttribute('language', 'javascript');
+		e.setAttribute('type', 'text/javascript');
+		e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+		document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); };
+		})();
+	</script>
+<!-- Chartbeat -->
+
+	</body>
+</html>

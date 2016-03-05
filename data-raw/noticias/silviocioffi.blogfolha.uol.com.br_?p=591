@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="pt-BR" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" >
+	<!-- readspeaker ads -->
+	<!-- <script src="http://www1.folha.uol.com.br/blogs/readspeaker-ads.js"></script> -->
+	<!-- favicon -->
+	<link rel="shortcut icon" href="//f.i.uol.com.br/favicon.ico">
+	<title>Turismo ainda em modo de espera | Silvio Cioffi</title>
+<script>var deviceType = "desktop" </script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/silviocioffi.blogfolha.uol.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='comentarios-css'  href='http://static.folha.uol.com.br/blogs/folha/css/3/common/comments.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='folhablogs-style-css'  href='http://static.folha.uol.com.br/blogs/folha/css/4/common/base.min.css?ver=375184922' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://code.jquery.com/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://static.folha.uol.com.br/library/modernizr/2.6.2/modernizr.js?ver=375184922'></script>
+<script type='text/javascript' src='http://tag.navdmp.com/tm23947.js?ver=375184922'></script>
+<script type='text/javascript' src='http://static.folha.uol.com.br/folha/js/5.4/common/common.js?ver=375184922'></script>
+<script type='text/javascript' src='http://f1.na.readspeaker.com/script/6877/ReadSpeaker.js?pids=embhl&#038;ver=375184922'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://silviocioffi.blogfolha.uol.com.br/xmlrpc.php?rsd" />
+<link rel='canonical' href='http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/' />
+<!-- Social media tags -->
+<meta property="fb:app_id" content="554363517934447" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="Silvio Cioffi - Folha de S.Paulo - Blogs" />
+<meta property="og:url" content="http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/" />
+<meta property="og:title" content="Turismo ainda em modo de espera - Silvio Cioffi" />
+<meta property="og:type" content="article" />
+<meta property="description" content=""Essa cobrança, essa alíquota de 25% no imposto de renda sobre as remessas que as agências e operadoras fazem para pagar serviços de turismo no exterior,..." />
+<meta property="og:description" content=""Essa cobrança, essa alíquota de 25% no imposto de renda sobre as remessas que as agências e operadoras fazem para pagar serviços de turismo no exterior,..." />
+<meta property="og:image" content="http://silviocioffi.blogfolha.uol.com.br/files/2016/02/Leonel-Rossi-2-750x453.jpg" />
+<meta name="twitter:image" content="http://silviocioffi.blogfolha.uol.com.br/files/2016/02/Leonel-Rossi-2-750x453.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@folha" />
+<meta name="twitter:description" content=""Essa cobrança, essa alíquota de 25% no imposto de renda sobre as remessas que as agências e operadoras fazem para pagar serviços de turismo no exterior,..." />
+<!-- Social media tags //-->
+<script>
+	folha.information.section = "blog.turismo.silviocioffi" ;
+	folha.information.page.channel = "blogs";
+	folha.information.page.subchannel = "Silvio Cioffi"  ;
+
+	/*Tag Manager*/
+	folha.tag_manager.banners = ["banner-150x385-1", "banner-300x250-2", "banner-300x250-3", "banner-300x250-4", "banner-300x600-1", "banner-300x600-2", "banner-970x90-1", "banner-88x31-1"];
+	folha.tag_manager.create() ;
+	</script>
+	<script src="http://tm.uol.com.br/h/par/folha.js"></script><style type='text/css'>
+		.boxuolmais {
+			display: block;
+			float: left;
+			max-width: 100%;
+			visibility: visible !important;
+			/* alignment CSS placeholder */
+		}
+		.boxuolmais img {
+			max-width: 100%;
+			height: 100%;
+		}
+		.boxuolmais object {
+			max-width: 100%;
+		}
+		</style><script type="text/javascript" src="http://static.folha.uol.com.br/blogs/folha/js/1/comentarios.min.validacao.js?2015092401" charset="windows-1252"></script>	<script src="http://jsuol.com.br/barra/parceiro.js?parceiro=folha"></script>
+	<script charset="windows-1252" src="//www1.folha.uol.com.br/folha/furniture/navbar/search.js"></script>
+</head>
+<body class="single single-post postid-591 single-format-standard" itemscope itemtype="http://schema.org/Blog">
+		<script charset="windows-1252" src="http://www1.folha.uol.com.br/folha/furniture/paywall/loader.js?t=20160114"></script>
+		<a id="anchor-top"></a>
+	<div class="full">
+	<!-- full -->
+			<div class="col-lg-12 col-sm-12 col-xs-12">
+			<!-- grid -->
+				<header class="main-header" >
+					<div class="container">
+					<!-- container -->
+						<a class="main-menu-button"></a>
+						<div class="top-title" >
+
+															<h2 class="blog-title"><a href="http://silviocioffi.blogfolha.uol.com.br/" rel="home" >Silvio Cioffi</a></h2>
+														
+													</div>
+					<!-- container -->
+					</div>
+				</header>
+			<!-- grid -->
+			</div>
+	<!-- full -->
+	</div>
+
+	<section class="main-menu"></section>
+
+	<section class="intro">
+			<!-- introdução -->
+		<div class="container">
+		<!-- container -->
+			<div class="row">
+			<!-- row -->
+				<div class="col-lg-12 col-sm-12 col-xs-12" id="author-profile-display">
+					<!-- INFORMAÇÕES DO AUTOR -->
+						<div class="author-profile" itemscope itemtype="http://schema.org/Person">
+
+		<img class="image-description" itemprop="image" src="http://f.i.uol.com.br/folha/colunas/images/14245428.jpeg" alt=" - ">		<div class="description" itemprop="description"><p><b>Silvio Cioffi</b> trata do universo das viagens e da indústria do turismo, bem como temas conexos, como feiras, eventos, notícias sobre aviação, hotelaria, cruzeiros marítimos, gastronomia e até dicas de lugares.</p>
+<p><a href="http://silviocioffi.blogfolha.uol.com.br/perfil/">Perfil completo</a></p>
+</div>		<div class="blog-info">
+			<ul class="contact">
+				<li class="hidden"><span itemprop="name">Silvio Cioffi</span></li>				<li><a href="mailto:silvio.cioffi@grupofolha.com.br" itemprop="email"><span class="icon-blog icon-mail"></span> silvio.cioffi@grupofolha.com.br</a></li>				<li><a href="http://silviocioffi.blogfolha.uol.com.br/feed/" itemprop="url"><span class="icon-blog icon-rss"></span> Assine o feed do blog</a></li>
+															</ul>
+		</div>
+
+	</div>
+					<!-- INFORMAÇÕES DO AUTOR -->
+				</div>
+			<!-- row -->
+			</div>
+
+		</div>
+		<!-- container -->
+	</section>
+
+	
+	<!-- TOP ADS 1260-->
+	<div class="container">
+	<!-- container -->
+		<div class="row">
+		<!-- row -->
+			<div class="col-lg-12 col-sm-12 col-xs-12">
+			<!-- grid -->
+				<div class="box-ads-1260">
+					<!-- ad-970x90-1 -->
+					<div id="ad-970x90-1" class="advertising ad-970x90">
+						<span class="label">Publicidade</span>
+						<div id="banner-970x90-1-area" class="tm-ads"></div>
+					</div>					<!-- /ad-970x90-1 -->
+				</div>
+			<!-- grid -->
+			</div>
+		<!-- row -->
+		</div>
+	<!-- container -->
+	</div>
+	<!-- ADS -->
+	<!--primary -->
+	<div class="container">
+	<!-- container -->
+		<div class="row">
+		<!-- row -->
+
+			<!-- LEFT COLUMN -->
+			<div class="col-lg-8 col-sm-12 col-xs-12">
+				<main id="main" class="site-main" role="main">
+					
+						<article id="post-591" class="box card post-591 post type-post status-publish format-standard hentry category-uncategorized" itemscope itemType="http://schema.org/BlogPosting" itemprop="blogPost">
+	<meta itemprop="inLanguage" content="pt-BR"/>
+	<header class="entry-header">
+		<div class="entry-meta">
+			<!--TOOL BAR -->
+			<div id="toolbar-container" class="toolbar"><span class="box-time">
+			<time itemprop="datePublished" datetime="2016-02-05T17:38:43+00:00">
+				05/02/2016 <i class="sprite icon-clock"></i> 17:38
+			</time></span><div id="readspeaker_button1" class="read-speaker rs_skip rsbtn_sampleskin rs_preserve">
+		<a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="http://app-na.readspeaker.com/cgi-bin/rsent?customerid=6877&amp;lang=pt_br&amp;readid=post-591&amp;url=">
+			<span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+			<span class="rsbtn_right rsimg rsplay rspart"></span>
+		</a>
+	</div><div data-share-buttons="facebook whatsapp twitter googleplus linkedin " data-share-url="http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Turismo ainda em modo de espera" data-share-twitter-hashtags="folha" data-share-email-site="blogfolha"  ></div>
+		<div class="toolbar-options rs_skip">
+			<a class="icon-plus">Opções</a>
+			<div class="items  rs_skip">
+				<i class="arrow-up rs_skip"></i>
+				<ul>
+					<li class="email">
+						<a href="http://tools.folha.com.br/send?site=blogfolha&url=http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/">
+							<i class="icons icon-mail-small"></i>
+							Enviar por E-mail
+						</a>
+					</li>
+					<li class="shortcut">
+						<a href="">
+							<i class="icons icon-shortcut"></i>
+							<input type="text" onclick="this.select();" value="http://silviocioffi.blogfolha.uol.com.br?p=591">
+							Copiar Url curta
+						</a>
+					</li>
+					<li class="print">
+						<a href="http://tools.folha.com.br/print?url=http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/&site=blogfolha">
+							<i class="icons icon-print"></i>
+							Imprimir
+						</a>
+					</li>
+					<li class="warning">
+						<a href="http://tools.folha.com.br/feedback?url=http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/&site=online">
+							<i class="icons icon-warning"></i>
+							Comunicar erros
+						</a>
+					</li>
+					<li class="font">
+						<i class="icons icon-font"></i>
+						<a href="javascript:;" data-size="large">
+							Maior
+						</a>
+						|
+						<a href="javascript:;" data-size="small">
+							Menor
+						</a>
+					</li>
+					<li class="rss">
+						<a href="http://silviocioffi.blogfolha.uol.com.br/feed/">
+							<i class="icons icon-rss-small"></i>
+							RSS
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	<div class="full-line"></div></div>			<!--TOOL BAR -->
+			<!-- FEATURED IMAGE CAPTION -->
+						<!-- FEATURED IMAGE CAPTION -->
+			<!-- FEATURED IMAGE -->
+						<!-- FEATURED IMAGE -->
+		</div><!-- .entry-meta -->
+		<!-- RSPEAK_START -->
+		<h1 id="post-title" class="box-title" itemprop="headline"><a href="http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/" rel="bookmark">Turismo ainda em modo de espera</a></h1>		<div class="author">Por Silvio Cioffi</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content" itemprop="articleBody">
+		<div id="divRpF602122">&#8220;Essa cobrança, essa alíquota de 25% no imposto de renda sobre as remessas que as agências e operadoras fazem para pagar serviços de turismo no exterior, em vigor desde o início de 2016, não é solução nenhuma. Acho, entretanto, que é uma questão de tempo para isso se resolver, o ministro Henrique Eduardo Alves (PMDB), do Turismo, está empenhado nisso&#8221;, diz Leonel Rossi Jr.</div>
+<div></div>
+<div>Atual conselheiro da Associação Brasileira das Agências de Viagens (Abav-Nacional), ex-presidente da Abav-SP e do Sindetur, Leonel Rossi Jr. é uma das vozes mais experientes e respeitadas do setor.</div>
+<div></div>
+<div>Em entrevista, ele afirma ainda que, no entanto, &#8220;caso isso não se resolva, poderemos ter um impacto enorme no turismo.&#8221;</div>
+<div></div>
+<div>Já o ministro Henrique Alves utilizou hoje (4/2) a sua conta no twitter para acalmar operadores e agentes com relação à modificação da alíquota de 25%, que iria para 6% ou 6,38%, escrevendo que está “confiante no compromisso assumido para a redução do imposto absurdo&#8221;, e arremantou: &#8220;o turismo vencerá!&#8221;</div>
+<div>Leia a seguir  trechos da entrevista exclusiva que Leonel Rossi Jr. concedeu à <strong>Folha</strong>.</div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div>
+<a href="http://silviocioffi.blogfolha.uol.com.br/files/2016/02/Leonel-Rossi-2.jpg"><img class="wp-image-593 size-large" src="http://silviocioffi.blogfolha.uol.com.br/files/2016/02/Leonel-Rossi-2-750x453.jpg" alt="Thomaz Rossi/Arquivo Pessoal " width="750" height="453" /></a></p>
+<p class="wp-caption-dd">
+<p class="wp-caption-dd">
+<p class="wp-caption-dd">  Leonel Rossi Jr., conselheiro da Abav-Nacional         Foto: Thomaz Rossi/Arquivo Pessoal</p>
+<p class="wp-caption-dd">
+</div>
+<div>
+<div>
+<div></div>
+<div>
+<div>
+<p><strong> </strong><strong>Folha &#8211; Como o sr. está vendo essa normativa que, desde o dia 1 de janeiro, determina uma alíquota 25% para operadores de turismo que fazem remessas ao exterior e com elas pagam serviços? Ou seriam 6%? Ou 6,38?</strong></p>
+<div></div>
+<div>
+<div>
+<div></div>
+<div>
+<div>
+<p><strong>Leonel Rossi Jr.</strong> &#8211; &#8220;Não é só 25%, pois com as taxas de banco, isso chega a 33% e assusta enormemente o setor. Se a medida prevalecer, vamos ter muitas demissões e muitas agências e operadoras vão fechar, isso sem dúvida alguma.</p>
+<p>&nbsp;</p>
+<p>Mas tem o reverso da medalha, eu acredito que isso vá ser modificado.</p>
+<p>&nbsp;</p>
+<p>Um acordo havia sido feito com o ex-ministro Joaquim Levy, da Fazenda, para essa alíquota ficar equiparada ao IOF do cartão, que é de 6,38%.</p>
+<p>&nbsp;</p>
+<p>O próprio Levy aceitou, mas como a mudança dele, por um momento voltou atrás. Entretanto, o ministro do Turismo Henrique Eduardo Alves (PMDB), parece realmente empenhado em reverter a normativa.</p>
+<p>&nbsp;</p>
+<p>Veja só: turismo é uma via de duas mãos, não funciona assim, e o Brasil já chegou num patamar em que políticas assim não funciona. Temos, no país, uma reserva de US$ 320 bilhões.</p>
+<div>
+<div>
+<p>&nbsp;</p>
+<p>Então essa medida é uma bobagem muito grande.</p>
+<p>&nbsp;</p>
+<p>Nós já passamos das épocas críticas em você punha imposto para viajar, mas o mundo mudou!</p>
+<p>&nbsp;</p>
+<p><strong>E qual o sr. estima que vá ser impacto de uma alíquota alta no bolso do passageiro?</strong></p>
+<p>&nbsp;</p>
+<p>Na realidade, o brasileiro está gastando menos no exterior, 30% menos em Miami, por exemplo.</p>
+<p>&nbsp;</p>
+<p>Mas isso nada tem a ver com a alíquota: isso já vinha assim desde que, durante o ano passado.</p>
+<p>&nbsp;</p>
+<p>Entretanto, as companhias aéreas cortaram os preços pela metade, seja para os EUA, seja para a Europa, o que ajuda a equilibrar um pouco as coisas?</p>
+<p>&nbsp;</p>
+<p><strong>2015 foi particularmente ruim para os operadores, com a majoração de 50% do dólar no período. Essa alíquota, nem que seja de 6% ou de 6,38%, não onera demasiadamente o setor de viagens?</strong></p>
+<p>&nbsp;</p>
+<p>O setor de turismo já é bastante onerado e tudo isso é muito preocupante.</p>
+<p>&nbsp;</p>
+<p>Mas, como disse, acredito sinceramente que vai ter uma solução por parte do governo federal.</p>
+<p>&nbsp;</p>
+<p>Não é possível que, com o acordo que já estava selado, não se volte atrás. A cobrança de 6,38%, que deixa as operadoras em igualdade com o cartão de crédito, já é uma cobrança boa.</p>
+<p>&nbsp;</p>
+<p>No ano passado, antes portanto desse anúncio da alíquota do imposto de renda, a venda de passagens aéreas internacionais ficou igual a 2014.</p>
+<p>&nbsp;</p>
+<p>Já no nacional, os voos aumentaram cerca de 5%.</p>
+<p>&nbsp;</p>
+<p>Na venda de pacotes, o internacional caiu cerca de 25%, enquanto no Brasil, subiu uns 8%.</p>
+<p>&nbsp;</p>
+<p><strong>Com as Olimpíadas, o Rio-2016, o que será do setor no turismo receptivo e como o exportativo vai reagir? </strong></p>
+<p>&nbsp;</p>
+<p>Se essa alíquota ficar, poderá haver uma queda de uns 40% no exportativo, que são as viagens de brasileiros para o exterior, mesmo com compensação, como falei, das companhias aéreas internacionais cobrando menos pelos bilhetes.</p>
+<p>&nbsp;</p>
+<p>Mas é bom lembrar que as pessoas acostumaram a viajar e que devem continuar viajando, embora tendam a gastar menos em suas viagens.</p>
+<p>&nbsp;</p>
+<p><strong>O que deveria ser feito para o Brasil conseguir atrair um bom número de turistas estrangeiros?</strong></p>
+<p>&nbsp;</p>
+<p>Veja, o dólar subiu, o Brasil ficou mais barato, mas mesmo assim não acredito que os Jogos Olímpicos deste ano no Rio atraiam muita gente.</p>
+<p>&nbsp;</p>
+<p>Não fizemos promoção adequada, como também não fizemos na Copa do Mundo.</p>
+<p>&nbsp;</p>
+<p>Dentro da conjuntura das despesas de eventos desse vulto, seria preciso separar dinheiro para investir na imagem no Brasil no exterior.</p>
+<p>&nbsp;</p>
+<p>Seria uma janela, um momento para fazer marketing do turismo brasileiro, mas não fazemos&#8230; é medíocre.</p>
+<p>&nbsp;</p>
+<p>Nas Olimpíadas, com dezenas de modalidades esportivas, poderíamos trazer muita visitação do exterior, mas temos problemas de segurança e outros.</p>
+<p>&nbsp;</p>
+<p>Com alguma sorte vamos receber 6,5 milhões ou sete milhões de turistas estrangeiros, o que não é nada.</p>
+<p>&nbsp;</p>
+<p>Pega outros países, mesmo ilhas do Caribe recebem mais visitantes do exterior do que o Brasil, porque gastam três vezes mais em promoção turísticas do que nós gastamos.</p>
+<p>&nbsp;</p>
+<p>Seria preciso anunciar em revistas como a Condé Nast Treveller, como a Embratur já fez no passado.</p>
+<p>&nbsp;</p>
+<p>Outra promoção que foi boa, na época do ministro Caio Luiz de Carvalho, foi incluir promoção sobre o país na programação da emissora norte-americana CNN.</p>
+<p>&nbsp;</p>
+<p>Também tem a experiência do Brand USA, uma pareceria público-privada em que governo e operadoras põem 50% de recursos cada um.</p>
+<p>&nbsp;</p>
+<p>A verdade é que nosso exportativo está ruim e o receptivo está muito caído.</p>
+<p>&nbsp;</p>
+<p>Se não houver promoção, não teremos turistas. Teremos que mostrar coisas boas, senão fica só a parte negativa, a zica, etc. E é preciso lembrar que os brasileiros estão cansados de tantos impostos.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+		<!-- RSPEAK_STOP -->
+			</div><!-- .entry-content -->
+
+	
+	<aside class="share-footer"><span class="share-text">Compartilhe:</span> <div data-share-buttons="facebook whatsapp twitter googleplus linkedin " data-share-url="http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Turismo ainda em modo de espera" data-share-twitter-hashtags="folha" data-share-email-site="blogfolha"  ></div></aside>	<div id="comentarios"></div>
+<script type="text/javascript" charset="utf-8">
+	jQuery(function(){
+		jQuery('#comentarios').comentarios({
+			id: 12416570,
+			teaser: jQuery('#comentarios-teaser')
+		});
+	});
+</script>
+
+
+</article><!-- #post-## -->
+
+					
+				</main><!-- #main -->
+				<div class="box-more-posts">
+					<a href="http://silviocioffi.blogfolha.uol.com.br">Veja mais posts</a>
+				</div>
+				
+				<!-- BOTTOM ADS -->
+			<aside class="ads-bottom">
+			<!-- grid -->
+				<div class="box-ads-300">
+				<!-- ad-300x250-4 -->
+				<div id="ad-300x250-2" class="advertising ad-300x250">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x250-2-area" class="tm-ads"></div>
+				</div>
+				<!-- /ad-300x250-4 -->
+				</div>
+				<div class="box-ads-300 ads-300x250-3">
+				<!-- ad-300x250-5 -->
+				<div id="ad-300x250-3" class="advertising ad-300x250">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x250-3-area" class="tm-ads"></div>
+				</div>
+				<!-- /ad-300x250-5 -->
+				</div>
+			<!-- grid -->
+			<div class="clearfix"></div>
+			</aside>
+	<!-- ADS -->
+				<!-- BLOGS DA FOLHA -->
+				<section class="box-more-blogs">
+			<a href="#" class="title-more-blogs">
+				<h3>Blogs da Folha</h3>
+				<span class="icon-expand more-blog"></span>
+			</a>
+			<div class="more-blogs"></div></section>				<!-- BLOGS DA FOLHA-->
+			
+			</div>
+			<!-- LEFT COLUMN -->
+			<!-- RIGHT COLUMN -->
+				<!-- grid -->
+			<div class="col-lg-4 col-sm-12 col-xs-12">
+				<div id="search-3" class="widget widget_search box cardkicker"><h3 class="widget-title box-title" >Busca</h3><form role="search" method="get" class="search-form" action="http://silviocioffi.blogfolha.uol.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" title="Pesquisar por:" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></div><div id="most_viewed_posts-2" class="widget widget_most_viewed_posts box cardkicker"><h3 class="widget-title box-title" >Mais acessadas</h3><ul><li><p class="date">27/12/15</p><a href="http://silviocioffi.blogfolha.uol.com.br/2015/12/27/2016-tem-5-feriados-prolongaveis/" class="title">2016 tem 5 feriados prolongáveis</a></li><li><p class="date">08/01/16</p><a href="http://silviocioffi.blogfolha.uol.com.br/2016/01/08/viagens-internacionais-devem-encarecer/" class="title">Viagens internacionais devem encarecer</a></li><li><p class="date">01/02/16</p><a href="http://silviocioffi.blogfolha.uol.com.br/2016/02/01/dilma-nao-quer-voce-no-exterior/" class="title">Dilma não quer você no exterior</a></li><li><p class="date">18/12/15</p><a href="http://silviocioffi.blogfolha.uol.com.br/2015/12/18/rio-16-e-remedio-para-a-crise/" class="title">Rio-16 é remédio para a crise?</a></li><li><p class="date">05/02/16</p><a href="http://silviocioffi.blogfolha.uol.com.br/2016/02/05/turismo-ainda-em-modo-de-espera/" class="title">Turismo ainda em modo de espera</a></li></ul></div>				
+				<!-- ADS 300X600 -->
+				<div id="ad-300x600-1" class="advertising ad-300x600">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x600-1-area" class="tm-ads"></div>
+				</div>
+				<!-- ADS 300X600 -->
+
+				<div class="drops">
+					<!-- Livraria Drops -->
+					<script type="text/javascript" charset="windows-1252" src="http://www1.folha.uol.com.br/virtual/5.4/common/livraria-drops.js"></script>
+					<!-- /Livraria Drops -->
+					<div id="ad-150x385-1" class="item publicidade advertising ad-150x385">
+							<span class="label">Publicidade</span>
+							<div id="banner-150x385-1-area" class="tm-ads"></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+
+				<!-- ADS 300X600 -->
+				<div id="ad-300x600-2" class="advertising ad-300x600">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x600-2-area" class="tm-ads"></div>
+				</div>
+				<!-- ADS 300X600 -->
+				<script type="text/javascript" src="http://www1.folha.uol.com.br/blogs/silviocioffi/livraria-side.js" charset="windows-1252"></script>			<!-- grid -->
+</div>
+	
+			<!-- row -->
+		</div>
+	<!-- container -->
+
+	</div><!-- #primary -->
+	<!-- FOOTER -->
+	<footer>
+		<script src="http://static.folha.uol.com.br/plugins/stats/1.0/stats.js"></script>
+		<div class="full top">
+		<!-- full -->
+			<div class="container">
+			<!-- container -->
+				<div class="row">
+				<!-- row -->
+					<div class="col-lg-12 col-sm-12 col-xs-12 top-icon">
+					<!-- grid -->
+						<a id="scrolltop" href="#anchor-top">VOLTAR AO TOPO</a>
+					<!-- grid -->
+					</div>
+				<!-- row -->
+				</div>
+			<!-- container -->
+			</div>
+		<!-- full -->
+		</div>
+
+		<div class="full copy">
+		<!-- full -->
+			<div class="container">
+			<!-- container -->
+				<div class="row">
+				<!-- row -->
+					<div class="col-lg-12 col-sm-12 col-xs-12">
+					<!-- grid -->
+						<p>Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicação, eletrônico ou impresso, sem autorização escrita da Folhapress (pesquisa@folhapress.com.br).</p>
+					<!-- grid -->
+					</div>
+				<!-- row -->
+				</div>
+			<!-- container -->
+			</div>
+		<!-- full -->
+		</div>	
+	</footer>
+	<!-- FOOTER -->
+	<!-- Tag Manager -->
+	
+<div id="banner-150x385-1" class="tm-ads">
+<script>folha.tag_manager.get( "150x385-1" ) ;</script>
+</div>
+
+<div id="banner-728x90-1" class="tm-ads">
+<script>folha.tag_manager.get( "728x90-1" ) ;</script>
+</div>
+
+<div id="banner-300x50-1" class="tm-ads">
+<script>folha.tag_manager.get( "300x50-1" ) ;</script>
+</div>
+
+<div id="banner-300x250-2" class="tm-ads">
+<script>folha.tag_manager.get( "300x250-2" ) ;</script>
+</div>
+
+<div id="banner-300x250-3" class="tm-ads">
+<script>folha.tag_manager.get( "300x250-3" ) ;</script>
+</div>
+
+<div id="banner-300x250-4" class="tm-ads">
+<script>folha.tag_manager.get( "300x250-4" ) ;</script>
+</div>
+
+<div id="banner-300x40-1" class="tm-ads">
+<script>folha.tag_manager.get( "300x40-1" ) ;</script>
+</div>
+
+<div id="banner-615x250-1" class="tm-ads">
+<script>folha.tag_manager.get( "615x250-1" ) ;</script>
+</div>
+
+<div id="banner-300x40-2" class="tm-ads">
+<script>folha.tag_manager.get( "300x40-2" ) ;</script>
+</div>
+
+<div id="banner-300x40-3" class="tm-ads">
+<script>folha.tag_manager.get( "300x40-3" ) ;</script>
+</div>
+
+<div id="banner-300x600-1" class="tm-ads">
+<script>folha.tag_manager.get( "300x600-1" ) ;</script>
+</div>
+
+<div id="banner-300x600-2" class="tm-ads">
+<script>folha.tag_manager.get( "300x600-2" ) ;</script>
+</div>
+
+<div id="banner-970x90-1" class="tm-ads">
+<script>folha.tag_manager.get( "970x90-1" ) ;</script>
+</div>
+<div id="banner-88x31-1" class="tm-ads">
+<script>folha.tag_manager.get( "88x31-1" ) ;</script>
+</div>
+
+<script>folha.tag_manager.check() ;</script>
+<script src="http://tm.uol.com.br/b/par/folha.js"></script>
+<!-- /Tag Manager -->
+
+<!-- Omniture -->
+<script>folha.information.check() ;</script>
+<script src="http://me.jsuol.com.br/omtr/folhacom.js"></script>
+<!-- /Omniture -->
+
+<script type="text/javascript">
+  window.___gcfg = {lang: 'pt-BR'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- IVC -->
+<script type="text/javascript"> 
+	    var ivcUrl = ("https:" == document.location.protocol ? "https://datpdpmej1fn2.cloudfront.net/" :
+	    "http://ivccftag.ivcbrasil.org.br/") + "ivc.js";
+	    ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalIvcNamespace=p.GlobalIvcNamespace||[];
+	    p.GlobalIvcNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+	    };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+	    n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script",ivcUrl,"ivc")); 
+
+	    window.ivc('newTracker', 'cf', 'ivccf.ivcbrasil.org.br', {
+	        idWeb: '125'
+	    }); 
+
+	    window.ivc('trackPageView'); 
+	</script>
+<!--IVC-->
+
+<script type='text/javascript'>
+	var _sf_async_config={};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 50059;
+	_sf_async_config.domain = 'folha.com.br';
+	_sf_async_config.useCanonical = true;
+	_sf_async_config.sections = 'folha.com.br/blogs,home'; //CHANGE THIS
+	_sf_async_config.authors = 'Folha'; //CHANGE THIS
+	/** CONFIGURATION END **/
+	(function(){
+	function loadChartbeat() {
+	window._sf_endpt=(new Date()).getTime();
+	var e = document.createElement('script');
+	e.setAttribute('language', 'javascript');
+	e.setAttribute('type', 'text/javascript');
+	e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+	document.body.appendChild(e);
+	}
+	var oldonload = window.onload;
+	window.onload = (typeof window.onload != 'function') ?
+	loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+</script>
+<script>
+	var folhaHttp = {
+		HTTP_REFERER : "",
+		HTTP_X_REFERER : "",
+		HTTP_X_NAMESPACE : "",
+	};
+</script>
+
+<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type='text/javascript' src='http://static.folha.uol.com.br/blogs/folha/js/2/common.min.js?ver=375184922'></script>
+<script type='text/javascript' src='http://silviocioffi.blogfolha.uol.com.br/wp-includes/js/comment-reply.min.js?ver=4.2.5'></script>
+</body>
+</html>
+
+
+
