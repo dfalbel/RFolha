@@ -26,3 +26,20 @@ baixar_urls <- function(url, dir, t = 1){
   }
   return(dir)
 }
+
+
+#' Processar notícias
+#'
+#'
+processar_noticias <- function(dir){
+  noticias <- list.files(dir, full.names = T)
+  textos <- plyr::llply(noticias, function(n){
+    xml2::read_html(n) %>%
+      rvest::html_nodes("p") %>%
+      rvest::html_text()
+  })
+  textos_duplicados <- textos %>%
+    unlist()
+  textos_duplicados <- textos_duplicados[duplicated(textos_duplicados)] %>% unique
+
+}
