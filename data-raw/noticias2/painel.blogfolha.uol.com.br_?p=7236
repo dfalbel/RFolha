@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="pt-BR" dir="ltr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" >
+	<!-- readspeaker ads -->
+	<!-- <script src="http://www1.folha.uol.com.br/blogs/readspeaker-ads.js"></script> -->
+	<!-- favicon -->
+	<link rel="shortcut icon" href="//f.i.uol.com.br/favicon.ico">
+	<title>Relatório da Aneel mostra que linhas de transmissão são principal gargalo do setor elétrico | Painel</title>
+<script>var deviceType = "desktop" </script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/painel.blogfolha.uol.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.5"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='comentarios-css'  href='http://static.folha.uol.com.br/blogs/folha/css/3/common/comments.css?ver=4.2.5' type='text/css' media='all' />
+<link rel='stylesheet' id='folhablogs-style-css'  href='http://static.folha.uol.com.br/blogs/folha/css/4/common/base.min.css?ver=1134275514' type='text/css' media='all' />
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://code.jquery.com/jquery-migrate-1.2.1.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://static.folha.uol.com.br/library/modernizr/2.6.2/modernizr.js?ver=1134275514'></script>
+<script type='text/javascript' src='http://tag.navdmp.com/tm23947.js?ver=1134275514'></script>
+<script type='text/javascript' src='http://static.folha.uol.com.br/folha/js/5.4/common/common.js?ver=1134275514'></script>
+<script type='text/javascript' src='http://f1.na.readspeaker.com/script/6877/ReadSpeaker.js?pids=embhl&#038;ver=1134275514'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://painel.blogfolha.uol.com.br/xmlrpc.php?rsd" />
+<link rel='canonical' href='http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/' />
+<!-- Social media tags -->
+<meta property="fb:app_id" content="554363517934447" />
+<meta property="og:locale" content="pt_BR" />
+<meta property="og:site_name" content="Painel - Folha de S.Paulo - Blogs" />
+<meta property="og:url" content="http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/" />
+<meta property="og:title" content="Relatório da Aneel mostra que linhas de transmissão são principal gargalo do setor elétrico - Painel" />
+<meta property="og:type" content="article" />
+<meta property="description" content="Gargalo elétrico A última radiografia feita pela Aneel (Agência Nacional de Energia Elétrica) nas obras de linhas de transmissão de energia em andamento no..." />
+<meta property="og:description" content="Gargalo elétrico A última radiografia feita pela Aneel (Agência Nacional de Energia Elétrica) nas obras de linhas de transmissão de energia em andamento no..." />
+<meta property="og:image" content="http://painel.blogfolha.uol.com.br/files/2016/01/apode0401painell.jpg" />
+<meta name="twitter:image" content="http://painel.blogfolha.uol.com.br/files/2016/01/apode0401painell.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@folha" />
+<meta name="twitter:description" content="Gargalo elétrico A última radiografia feita pela Aneel (Agência Nacional de Energia Elétrica) nas obras de linhas de transmissão de energia em andamento no..." />
+<!-- Social media tags //-->
+<script>
+	folha.information.section = "blog.poder.painel" ;
+	folha.information.page.channel = "blogs";
+	folha.information.page.subchannel = "Painel"  ;
+
+	/*Tag Manager*/
+	folha.tag_manager.banners = ["banner-150x385-1", "banner-300x250-2", "banner-300x250-3", "banner-300x250-4", "banner-300x600-1", "banner-300x600-2", "banner-970x90-1", "banner-88x31-1"];
+	folha.tag_manager.create() ;
+	</script>
+	<script src="http://tm.uol.com.br/h/par/folha.js"></script><style type='text/css'>
+		.boxuolmais {
+			display: block;
+			float: left;
+			max-width: 100%;
+			visibility: visible !important;
+			/* alignment CSS placeholder */
+		}
+		.boxuolmais img {
+			max-width: 100%;
+			height: 100%;
+		}
+		.boxuolmais object {
+			max-width: 100%;
+		}
+		</style><script type="text/javascript" src="http://static.folha.uol.com.br/blogs/folha/js/1/comentarios.min.validacao.js?2015092401" charset="windows-1252"></script>	<script src="http://jsuol.com.br/barra/parceiro.js?parceiro=folha"></script>
+	<script charset="windows-1252" src="//www1.folha.uol.com.br/folha/furniture/navbar/search.js"></script>
+</head>
+<body class="single single-post postid-7236 single-format-standard" itemscope itemtype="http://schema.org/Blog">
+		<script charset="windows-1252" src="http://www1.folha.uol.com.br/folha/furniture/paywall/loader.js?t=20160114"></script>
+		<a id="anchor-top"></a>
+	<div class="full">
+	<!-- full -->
+			<div class="col-lg-12 col-sm-12 col-xs-12">
+			<!-- grid -->
+				<header class="main-header" >
+					<div class="container">
+					<!-- container -->
+						<a class="main-menu-button"></a>
+						<div class="top-title" >
+
+															<h2 class="blog-title"><a href="http://painel.blogfolha.uol.com.br/" rel="home" >Painel</a></h2>
+														
+													</div>
+					<!-- container -->
+					</div>
+				</header>
+			<!-- grid -->
+			</div>
+	<!-- full -->
+	</div>
+
+	<section class="main-menu"></section>
+
+	<section class="intro">
+			<!-- introdução -->
+		<div class="container">
+		<!-- container -->
+			<div class="row">
+			<!-- row -->
+				<div class="col-lg-12 col-sm-12 col-xs-12" id="author-profile-display">
+					<!-- INFORMAÇÕES DO AUTOR -->
+						<div class="author-profile" itemscope itemtype="http://schema.org/Person">
+
+		<img class="image-description" itemprop="image" src="http://f.i.uol.com.br/folha/colunas/images/15137326.jpeg" alt=" - ">		<div class="description" itemprop="description"><p>A coluna <strong>Painel</strong> é publicada diariamente em 'Poder'</p>
+<p><a href="http://painel.blogfolha.uol.com.br/perfil/">Perfil completo</a></p>
+</div>		<div class="blog-info">
+			<ul class="contact">
+				<li class="hidden"><span itemprop="name">Natuza Nery</span></li>				<li><a href="mailto:painel@grupofolha.com.br" itemprop="email"><span class="icon-blog icon-mail"></span> painel@grupofolha.com.br</a></li>				<li><a href="http://painel.blogfolha.uol.com.br/feed/" itemprop="url"><span class="icon-blog icon-rss"></span> Assine o feed do blog</a></li>
+															</ul>
+		</div>
+
+	</div>
+					<!-- INFORMAÇÕES DO AUTOR -->
+				</div>
+			<!-- row -->
+			</div>
+
+		</div>
+		<!-- container -->
+	</section>
+
+	
+	<!-- TOP ADS 1260-->
+	<div class="container">
+	<!-- container -->
+		<div class="row">
+		<!-- row -->
+			<div class="col-lg-12 col-sm-12 col-xs-12">
+			<!-- grid -->
+				<div class="box-ads-1260">
+					<!-- ad-970x90-1 -->
+					<div id="ad-970x90-1" class="advertising ad-970x90">
+						<span class="label">Publicidade</span>
+						<div id="banner-970x90-1-area" class="tm-ads"></div>
+					</div>					<!-- /ad-970x90-1 -->
+				</div>
+			<!-- grid -->
+			</div>
+		<!-- row -->
+		</div>
+	<!-- container -->
+	</div>
+	<!-- ADS -->
+	<!--primary -->
+	<div class="container">
+	<!-- container -->
+		<div class="row">
+		<!-- row -->
+
+			<!-- LEFT COLUMN -->
+			<div class="col-lg-8 col-sm-12 col-xs-12">
+				<main id="main" class="site-main" role="main">
+					
+						<article id="post-7236" class="box card post-7236 post type-post status-publish format-standard hentry category-colunas-versao-impressa" itemscope itemType="http://schema.org/BlogPosting" itemprop="blogPost">
+	<meta itemprop="inLanguage" content="pt-BR"/>
+	<header class="entry-header">
+		<div class="entry-meta">
+			<!--TOOL BAR -->
+			<div id="toolbar-container" class="toolbar"><span class="box-time">
+			<time itemprop="datePublished" datetime="2016-01-04T02:00:47+00:00">
+				04/01/2016 <i class="sprite icon-clock"></i> 02:00
+			</time></span><div id="readspeaker_button1" class="read-speaker rs_skip rsbtn_sampleskin rs_preserve">
+		<a rel="nofollow" class="rsbtn_play" accesskey="L" title="Listen to this page using ReadSpeaker" href="http://app-na.readspeaker.com/cgi-bin/rsent?customerid=6877&amp;lang=pt_br&amp;readid=post-7236&amp;url=">
+			<span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Listen</span></span></span>
+			<span class="rsbtn_right rsimg rsplay rspart"></span>
+		</a>
+	</div><div data-share-buttons="facebook whatsapp twitter googleplus linkedin " data-share-url="http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Relatório da Aneel mostra que linhas de transmissão são principal gargalo do setor elétrico" data-share-twitter-hashtags="folha" data-share-email-site="blogfolha"  ></div>
+		<div class="toolbar-options rs_skip">
+			<a class="icon-plus">Opções</a>
+			<div class="items  rs_skip">
+				<i class="arrow-up rs_skip"></i>
+				<ul>
+					<li class="email">
+						<a href="http://tools.folha.com.br/send?site=blogfolha&url=http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/">
+							<i class="icons icon-mail-small"></i>
+							Enviar por E-mail
+						</a>
+					</li>
+					<li class="shortcut">
+						<a href="">
+							<i class="icons icon-shortcut"></i>
+							<input type="text" onclick="this.select();" value="http://painel.blogfolha.uol.com.br?p=7236">
+							Copiar Url curta
+						</a>
+					</li>
+					<li class="print">
+						<a href="http://tools.folha.com.br/print?url=http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/&site=blogfolha">
+							<i class="icons icon-print"></i>
+							Imprimir
+						</a>
+					</li>
+					<li class="warning">
+						<a href="http://tools.folha.com.br/feedback?url=http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/&site=online">
+							<i class="icons icon-warning"></i>
+							Comunicar erros
+						</a>
+					</li>
+					<li class="font">
+						<i class="icons icon-font"></i>
+						<a href="javascript:;" data-size="large">
+							Maior
+						</a>
+						|
+						<a href="javascript:;" data-size="small">
+							Menor
+						</a>
+					</li>
+					<li class="rss">
+						<a href="http://painel.blogfolha.uol.com.br/feed/">
+							<i class="icons icon-rss-small"></i>
+							RSS
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	<div class="full-line"></div></div>			<!--TOOL BAR -->
+			<!-- FEATURED IMAGE CAPTION -->
+						<!-- FEATURED IMAGE CAPTION -->
+			<!-- FEATURED IMAGE -->
+						<!-- FEATURED IMAGE -->
+		</div><!-- .entry-meta -->
+		<!-- RSPEAK_START -->
+		<h1 id="post-title" class="box-title" itemprop="headline"><a href="http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/" rel="bookmark">Relatório da Aneel mostra que linhas de transmissão são principal gargalo do setor elétrico</a></h1>		<div class="author">Por Painel</div>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content" itemprop="articleBody">
+		<p><strong>Gargalo elétrico</strong> A última radiografia feita pela Aneel (Agência Nacional de Energia Elétrica) nas obras de linhas de transmissão de energia em andamento no Brasil é desanimadora: 62% dos 363 empreendimentos de expansão da rede básica monitorados se encontram atrasados. A principal razão para o estouro no prazo é a demora no licenciamento ambiental, mas há problemas também de projeto, na compra de materiais e de execução das obras. A transmissão virou um gargalo para o setor.</p>
+<p><strong>Sem fio </strong>Em Belo Monte, por exemplo, o atraso preocupa. Segundo fiscais, considerando o andamento atual, é “bastante provável que haja restrição de geração no período de novembro de 2016 a julho de 2017”. A usina até poderia gerar energia, mas não teria como distribuí-la.</p>
+<p><strong>Sinal amarelo </strong>Obras de transmissão de energia para as Olimpíadas do Rio também vão mal, indica o relatório, que avaliou as condições dos empreendimentos entre julho e setembro de 2015. Das três linhas de transmissão avaliadas, apenas uma ficará pronta antes dos jogos, que serão realizados em agosto.</p>
+<p><strong>Vai longe </strong>Uma delas, classificada como “obra importante para a confiabilidade da área Rio durante o evento”, deve ficar pronta somente depois dele, em 30 de outubro.</p>
+<p><strong>Não dá </strong>A área econômica avisa que não cederá às pressões do PT pelo uso das reservas internacionais para financiar obras e investimentos.</p>
+<p><strong>Líder da torcida</strong> No Planalto, o ministro Ricardo Berzoini (Governo) é um dos defensores desta e de outras ideias mais heterodoxas.</p>
+<p><strong>Representante</strong> Berzoini é hoje a principal voz do PT dentro do governo. Prega internamente as bandeiras de seu partido e, como a legenda, defende uma guinada audaciosa na política econômica.</p>
+<p><strong>Prato cheio </strong>Apesar de atuar na articulação política, área já bastante espinhosa, o ministro tem se posicionado cada vez mais sobre temas da economia.</p>
+<p><strong>Dupla dinâmica </strong>Ao contrário do vizinho de gabinete, o ministro Jaques Wagner (Casa Civil) tem sido mais “low profile” nos debates sobre o tamanho do ajuste e das medidas para promover algum suspiro de crescimento econômico.</p>
+<p><strong>Descolados</strong> Unidos nacionalmente contra o impeachment de Dilma, PDT e PC do B começam a ter ruídos na relação em alguns Estados.</p>
+<p><strong>Tapas e tapas</strong> Em São Paulo, comunistas e trabalhistas brigam pelo mandato do vereador Netinho de Paula, que trocou o PC do B pelo PDT. No Maranhão, o PDT se queixa de demissões de aliados no governo Flavio Dino.</p>
+<p><strong>Ponta do lápis</strong> A Associação Nacional dos Delegados da PF vai encomendar a uma fundação ligada à USP um estudo que mostre o desmonte da corporação. A ideia é apresentar um raio-x dos deficits material e financeiro na segunda semana do mês.</p>
+<p><strong>Devolva-me</strong> Os R$ 133 milhões perdidos pela Polícia Federal no Orçamento deste ano devem ser recompostos. O Ministério da Justiça liberará em breve créditos suplementares. Congressistas também destinarão emendas para projetos da polícia.</p>
+<p><strong>Pão e água</strong> Sem esses valores, as cerca de 600 operações de inteligência da PF seriam paralisadas entre junho e julho deste ano.</p>
+<p><strong>Pé atrás</strong> Em e-mail obtido pela PF, o executivo da Odebrecht Roberto Ramos questiona um funcionário da Braskem sobre como obter um celular criptografado capaz de se comunicar com diretores da companhia química.</p>
+<p><strong>Dá, sim</strong> O funcionário diz que o aparelho demora uma semana para ficar pronto e custa R$ 7.000. “Grande ex-liderado, a eficiência de sempre”, agradece Ramos, que foi chefe do interlocutor na Braskem.</p>
+<p><strong>Saliência</strong> Dados no celular de outro executivo de empreiteira da Lava Jato viraram piada entre os investigadores. Nos registros de um aplicativo constam visitas frequentes a uma casa de tolerância na capital paulista.</p>
+<hr />
+<p><strong>TIROTEIO</strong></p>
+<p style="padding-left: 30px"><em>Nelson Barbosa vai dar certo. Quem apostar no contrário, vai quebrar muito a cara.</em></p>
+<p>DO MINISTRO EDINHO SILVA (SECOM), referindo-se ao novo ministro da Fazenda, cuja escolha foi amplamente criticada pelo mercado financeiro.</p>
+<hr />
+<p><strong>CONTRAPONTO</strong></p>
+<p><strong>A idade do Lobão</strong></p>
+<p><a href="http://painel.blogfolha.uol.com.br/files/2016/01/apode0401painell.jpg"><img class="aligncenter size-full wp-image-7241" src="http://painel.blogfolha.uol.com.br/files/2016/01/apode0401painell.jpg" alt="apode0401painell" width="728" height="694" /></a></p>
+<p>Com o presidente da Comissão de Relações Exteriores em viagem, o senador Lasier Martins (PDT-RS) comandou uma das sessões do colegiado. Mas ele ficou em dúvida ao explicar o critério para ser o escolhido.</p>
+<p>— Estava entre a minha presença e a do senador Edison Lobão [no comando da sessão], uma disputa de idade. Aí, parece que houve dúvida, senador —, disse Lasier, do alto de seus 73 anos de idade.</p>
+<p>— Por todas as razões, menos a idade, vossa excelência tem preferência —, riu Lobão (PMDB-MA), 79.</p>
+		<!-- RSPEAK_STOP -->
+			</div><!-- .entry-content -->
+
+	
+	<aside class="share-footer"><span class="share-text">Compartilhe:</span> <div data-share-buttons="facebook whatsapp twitter googleplus linkedin " data-share-url="http://painel.blogfolha.uol.com.br/2016/01/04/relatorio-da-aneel-mostra-que-linhas-de-transmissao-sao-principal-gargalo-do-setor-eletrico/" data-share-button-facebook-text="Compartilhar" data-share-twitter-text="Relatório da Aneel mostra que linhas de transmissão são principal gargalo do setor elétrico" data-share-twitter-hashtags="folha" data-share-email-site="blogfolha"  ></div></aside>	<div id="comentarios"></div>
+<script type="text/javascript" charset="utf-8">
+	jQuery(function(){
+		jQuery('#comentarios').comentarios({
+			id: 12326412,
+			teaser: jQuery('#comentarios-teaser')
+		});
+	});
+</script>
+
+
+</article><!-- #post-## -->
+
+					
+				</main><!-- #main -->
+				<div class="box-more-posts">
+					<a href="http://painel.blogfolha.uol.com.br">Veja mais posts</a>
+				</div>
+				
+				<!-- BOTTOM ADS -->
+			<aside class="ads-bottom">
+			<!-- grid -->
+				<div class="box-ads-300">
+				<!-- ad-300x250-4 -->
+				<div id="ad-300x250-2" class="advertising ad-300x250">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x250-2-area" class="tm-ads"></div>
+				</div>
+				<!-- /ad-300x250-4 -->
+				</div>
+				<div class="box-ads-300 ads-300x250-3">
+				<!-- ad-300x250-5 -->
+				<div id="ad-300x250-3" class="advertising ad-300x250">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x250-3-area" class="tm-ads"></div>
+				</div>
+				<!-- /ad-300x250-5 -->
+				</div>
+			<!-- grid -->
+			<div class="clearfix"></div>
+			</aside>
+	<!-- ADS -->
+				<!-- BLOGS DA FOLHA -->
+				<section class="box-more-blogs">
+			<a href="#" class="title-more-blogs">
+				<h3>Blogs da Folha</h3>
+				<span class="icon-expand more-blog"></span>
+			</a>
+			<div class="more-blogs"></div></section>				<!-- BLOGS DA FOLHA-->
+			
+			</div>
+			<!-- LEFT COLUMN -->
+			<!-- RIGHT COLUMN -->
+				<!-- grid -->
+			<div class="col-lg-4 col-sm-12 col-xs-12">
+				<div id="search-2" class="widget widget_search box cardkicker"><h3 class="widget-title box-title" >Busca</h3><form role="search" method="get" class="search-form" action="http://painel.blogfolha.uol.com.br/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" title="Pesquisar por:" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></div><div id="most_viewed_posts-2" class="widget widget_most_viewed_posts box cardkicker"><h3 class="widget-title box-title" >Mais acessadas</h3><ul><li><p class="date">05/03/16</p><a href="http://painel.blogfolha.uol.com.br/2016/03/05/cade-o-japones-perguntou-lula-ao-ver-a-policia-federal-a-sua-porta/" class="title">&#8216;Cadê o japonês?&#8217;, perguntou Lula, ao ver a Polícia Federal à sua porta</a></li><li><p class="date">09/02/16</p><a href="http://painel.blogfolha.uol.com.br/2016/02/09/sem-alarde-dissidentes-discutem-deixar-o-pt-e-fundar-um-novo-partido/" class="title">Sem alarde, dissidentes discutem deixar o PT e fundar um novo partido</a></li><li><p class="date">18/12/15</p><a href="http://painel.blogfolha.uol.com.br/2015/12/18/pmdb-do-senado-articula-movimento-para-tirar-temer-da-presidencia-do-pmdb/" class="title">PMDB do Senado articula movimento para tirar Temer da presidência do PMDB</a></li><li><p class="date">13/01/16</p><a href="http://painel.blogfolha.uol.com.br/2016/01/13/endividada-e-sem-poder-contar-com-dinheiro-do-governo-petrobras-coloca-fatia-na-braskem-a-venda/" class="title">Endividada e sem poder contar com dinheiro do governo, Petrobras coloca fatia na Braskem à venda</a></li><li><p class="date">18/12/15</p><a href="http://painel.blogfolha.uol.com.br/2015/12/18/apos-pedido-do-planalto-zuckerberg-edita-post-sobre-bloqueio-do-whatsapp-no-brasil/" class="title">Após pedido do Planalto, Zuckerberg edita post sobre bloqueio do WhatsApp no Brasil</a></li></ul></div><div id="categories-2" class="widget widget_categories box cardkicker"><h3 class="widget-title box-title" >Colunas</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://painel.blogfolha.uol.com.br/category/colunas-versao-impressa/" >Colunas &#8211; versão impressa</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://painel.blogfolha.uol.com.br/category/outrostextos/" >Outros textos</a>
+</li>
+		</ul>
+</div><div id="text-2" class="widget widget_text box cardkicker"><h3 class="widget-title box-title" >Colunas anteriores</h3>			<div class="textwidget"><ul><li><a href="http://www1.folha.uol.com.br/colunas/painel/">Leia colunas anteriores</a></li></ul></div>
+		</div><div id="categories-3" class="widget widget_categories box cardkicker"><h3 class="widget-title box-title" >Categorias</h3>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://painel.blogfolha.uol.com.br/category/colunas-versao-impressa/" >Colunas &#8211; versão impressa</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://painel.blogfolha.uol.com.br/category/outrostextos/" >Outros textos</a>
+</li>
+		</ul>
+</div>				
+				<!-- ADS 300X600 -->
+				<div id="ad-300x600-1" class="advertising ad-300x600">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x600-1-area" class="tm-ads"></div>
+				</div>
+				<!-- ADS 300X600 -->
+
+				<div class="drops">
+					<!-- Livraria Drops -->
+					<script type="text/javascript" charset="windows-1252" src="http://www1.folha.uol.com.br/virtual/5.4/common/livraria-drops.js"></script>
+					<!-- /Livraria Drops -->
+					<div id="ad-150x385-1" class="item publicidade advertising ad-150x385">
+							<span class="label">Publicidade</span>
+							<div id="banner-150x385-1-area" class="tm-ads"></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+
+				<!-- ADS 300X600 -->
+				<div id="ad-300x600-2" class="advertising ad-300x600">
+					<span class="label">Publicidade</span>
+					<div id="banner-300x600-2-area" class="tm-ads"></div>
+				</div>
+				<!-- ADS 300X600 -->
+				<script type="text/javascript" src="http://www1.folha.uol.com.br/blogs/painel/livraria-side.js" charset="windows-1252"></script>			<!-- grid -->
+</div>
+	
+			<!-- row -->
+		</div>
+	<!-- container -->
+
+	</div><!-- #primary -->
+	<!-- FOOTER -->
+	<footer>
+		<script src="http://static.folha.uol.com.br/plugins/stats/1.0/stats.js"></script>
+		<div class="full top">
+		<!-- full -->
+			<div class="container">
+			<!-- container -->
+				<div class="row">
+				<!-- row -->
+					<div class="col-lg-12 col-sm-12 col-xs-12 top-icon">
+					<!-- grid -->
+						<a id="scrolltop" href="#anchor-top">VOLTAR AO TOPO</a>
+					<!-- grid -->
+					</div>
+				<!-- row -->
+				</div>
+			<!-- container -->
+			</div>
+		<!-- full -->
+		</div>
+
+		<div class="full copy">
+		<!-- full -->
+			<div class="container">
+			<!-- container -->
+				<div class="row">
+				<!-- row -->
+					<div class="col-lg-12 col-sm-12 col-xs-12">
+					<!-- grid -->
+						<p>Copyright Folha de S.Paulo. Todos os direitos reservados. É proibida a reprodução do conteúdo desta página em qualquer meio de comunicação, eletrônico ou impresso, sem autorização escrita da Folhapress (pesquisa@folhapress.com.br).</p>
+					<!-- grid -->
+					</div>
+				<!-- row -->
+				</div>
+			<!-- container -->
+			</div>
+		<!-- full -->
+		</div>	
+	</footer>
+	<!-- FOOTER -->
+	<!-- Tag Manager -->
+	
+<div id="banner-150x385-1" class="tm-ads">
+<script>folha.tag_manager.get( "150x385-1" ) ;</script>
+</div>
+
+<div id="banner-728x90-1" class="tm-ads">
+<script>folha.tag_manager.get( "728x90-1" ) ;</script>
+</div>
+
+<div id="banner-300x50-1" class="tm-ads">
+<script>folha.tag_manager.get( "300x50-1" ) ;</script>
+</div>
+
+<div id="banner-300x250-2" class="tm-ads">
+<script>folha.tag_manager.get( "300x250-2" ) ;</script>
+</div>
+
+<div id="banner-300x250-3" class="tm-ads">
+<script>folha.tag_manager.get( "300x250-3" ) ;</script>
+</div>
+
+<div id="banner-300x250-4" class="tm-ads">
+<script>folha.tag_manager.get( "300x250-4" ) ;</script>
+</div>
+
+<div id="banner-300x40-1" class="tm-ads">
+<script>folha.tag_manager.get( "300x40-1" ) ;</script>
+</div>
+
+<div id="banner-615x250-1" class="tm-ads">
+<script>folha.tag_manager.get( "615x250-1" ) ;</script>
+</div>
+
+<div id="banner-300x40-2" class="tm-ads">
+<script>folha.tag_manager.get( "300x40-2" ) ;</script>
+</div>
+
+<div id="banner-300x40-3" class="tm-ads">
+<script>folha.tag_manager.get( "300x40-3" ) ;</script>
+</div>
+
+<div id="banner-300x600-1" class="tm-ads">
+<script>folha.tag_manager.get( "300x600-1" ) ;</script>
+</div>
+
+<div id="banner-300x600-2" class="tm-ads">
+<script>folha.tag_manager.get( "300x600-2" ) ;</script>
+</div>
+
+<div id="banner-970x90-1" class="tm-ads">
+<script>folha.tag_manager.get( "970x90-1" ) ;</script>
+</div>
+<div id="banner-88x31-1" class="tm-ads">
+<script>folha.tag_manager.get( "88x31-1" ) ;</script>
+</div>
+
+<script>folha.tag_manager.check() ;</script>
+<script src="http://tm.uol.com.br/b/par/folha.js"></script>
+<!-- /Tag Manager -->
+
+<!-- Omniture -->
+<script>folha.information.check() ;</script>
+<script src="http://me.jsuol.com.br/omtr/folhacom.js"></script>
+<!-- /Omniture -->
+
+<script type="text/javascript">
+  window.___gcfg = {lang: 'pt-BR'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- IVC -->
+<script type="text/javascript"> 
+	    var ivcUrl = ("https:" == document.location.protocol ? "https://datpdpmej1fn2.cloudfront.net/" :
+	    "http://ivccftag.ivcbrasil.org.br/") + "ivc.js";
+	    ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalIvcNamespace=p.GlobalIvcNamespace||[];
+	    p.GlobalIvcNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+	    };p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+	    n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script",ivcUrl,"ivc")); 
+
+	    window.ivc('newTracker', 'cf', 'ivccf.ivcbrasil.org.br', {
+	        idWeb: '125'
+	    }); 
+
+	    window.ivc('trackPageView'); 
+	</script>
+<!--IVC-->
+
+<script type='text/javascript'>
+	var _sf_async_config={};
+	/** CONFIGURATION START **/
+	_sf_async_config.uid = 50059;
+	_sf_async_config.domain = 'folha.com.br';
+	_sf_async_config.useCanonical = true;
+	_sf_async_config.sections = 'folha.com.br/blogs,home'; //CHANGE THIS
+	_sf_async_config.authors = 'Folha'; //CHANGE THIS
+	/** CONFIGURATION END **/
+	(function(){
+	function loadChartbeat() {
+	window._sf_endpt=(new Date()).getTime();
+	var e = document.createElement('script');
+	e.setAttribute('language', 'javascript');
+	e.setAttribute('type', 'text/javascript');
+	e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+	document.body.appendChild(e);
+	}
+	var oldonload = window.onload;
+	window.onload = (typeof window.onload != 'function') ?
+	loadChartbeat : function() { oldonload(); loadChartbeat(); };
+	})();
+</script>
+<script>
+	var folhaHttp = {
+		HTTP_REFERER : "",
+		HTTP_X_REFERER : "",
+		HTTP_X_NAMESPACE : "",
+	};
+</script>
+
+<script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script type='text/javascript' src='http://static.folha.uol.com.br/blogs/folha/js/2/common.min.js?ver=1134275514'></script>
+<script type='text/javascript' src='http://painel.blogfolha.uol.com.br/wp-includes/js/comment-reply.min.js?ver=4.2.5'></script>
+</body>
+</html>
+
+
+
