@@ -10,6 +10,7 @@ check_download(f)
 \item{f}{path para o arquivo baixado}
 }
 \description{
-Checar download
+Checa se o downlaod foi concluído com sucesso.
+A única condição atualmente é que o arquivo possua pelo menos 1.8kB
 }
 

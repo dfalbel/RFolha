@@ -9,6 +9,9 @@ processar_noticias(dir)
 \arguments{
 \item{dir}{diretorio com todos os arquivos das notícias}
 }
+\value{
+retorna um vetor de chr com os textos de cada uma das notícias.
+}
 \description{
 Processar notícias
 }

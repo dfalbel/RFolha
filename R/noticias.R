@@ -12,23 +12,35 @@ nome_url <- function(url){
 
 #' Procurar refresh
 #'
+#' Essa função serve apenas para procurar a url do refresh.
+#' Algumas notícias foram movidas e se encontram em outra URL.
 #'
 procurar_refresh <- function(path){
-  r <- xml2::read_html(n) %>%
+  r <- xml2::read_html(path) %>%
     rvest::html_nodes("meta") %>%
-    rvest::html_attr("content")
+    rvest::html_attr("content") %>%
+    paste(collapse = " ") %>%
+    stringr::str_extract("url=[^( )]+") %>%
+    stringr::str_replace(stringr::fixed("url="), "")
+  return(r)
 }
 
 
 #' GET_F
 #'
+#' Essa é a função GET do HTTR com wrap de failwith.
+#' Assim, se der algum erro ela retorna FALSE ao invés de parar a
+#' execução.
 #'
-GETF <- dplyr::failwith(F, function(url, path){
+GETF <- dplyr::failwith(FALSE, quiet = TRUE, f = function(url, path){
   httr::GET(url, httr::write_disk(path = path, overwrite = T))
-  T
-}, quiet = T)
+  return(TRUE)
+})
 
 #' Baixar url
+#'
+#' Lógica necessária p/ baixar um URL. Depois essa função é usada p/ fazer
+#' o download de diversas URLS's
 #'
 #'
 baixar_url <- function(url, path){
@@ -42,7 +54,7 @@ baixar_url <- function(url, path){
   if(!status){
     new_url <- procurar_refresh(path)
     if(stringr::str_length(new_url) > 4 & new_url != url){
-      baixar_url(new_url, path)
+      status <- baixar_url(new_url, path)
     } else {
       status <- FALSE
     }
@@ -83,22 +95,25 @@ baixar_urls <- function(url, dir, t = 1){
 
 #' Checar download
 #'
+#' Checa se o downlaod foi concluído com sucesso.
+#' A única condição atualmente é que o arquivo possua pelo menos 1.8kB
+#'
 #' @param f path para o arquivo baixado
 #'
 check_download <- function(f){
   info <- file.info(f)
   size <- info$size
   if(size < 2000){
-    TRUE
+    return(FALSE)
   } else {
     return(TRUE)
   }
 }
 
-
 #' Processar notícias
 #'
 #' @param dir diretorio com todos os arquivos das notícias
+#' @return retorna um vetor de chr com os textos de cada uma das notícias.
 #'
 #' @export
 processar_noticias <- function(dir){
@@ -108,15 +123,23 @@ processar_noticias <- function(dir){
       rvest::html_nodes("p") %>%
       rvest::html_text()
   })
+
+  # textso duplicados
   textos_duplicados <- textos %>%
     unlist()
   textos_duplicados <- textos_duplicados[duplicated(textos_duplicados)] %>% unique
 
+  # remover duplicados
+  textos <- plyr::llply(textos, function(x, duplicados){
+    x <- x[!(x %in% duplicados)]
+    return(x)
+  },
+  duplicados = textos_duplicados)
+
+  # concatenar tudo
+  textos <- plyr::laply(textos, function(x){
+    paste(x, collapse = " ")
+  })
+
+  return(textos)
 }
-
-# c <- baixar_urls(url = x$url, dir = "data-raw/noticias2/")
-# c2 <- baixar_urls(url = as.character(c$url[!c$status]), dir = "data-raw/noticias2/")
-# # rodar de novo p/ os false
-
-# d <- tabelar_busca("data-raw/busca/")
-# aux <- baixar_urls(d$url, dir = "data-raw/noticias3/")

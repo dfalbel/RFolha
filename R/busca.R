@@ -114,7 +114,12 @@ tabelar_pagina <- function(a){
     rvest::html_nodes(".content") %>%
     rvest::html_text()
 
+  date <- titulo %>%
+    stringr::str_extract("[0-9]{2}/[0-9]{2}/[0-9]{4}") %>%
+    lubridate::dmy()
+
   data.frame(
+    date = date,
     url = url,
     titulo = titulo,
     trecho = trecho,
