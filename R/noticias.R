@@ -10,6 +10,46 @@ nome_url <- function(url){
     stringr::str_replace_all("/", "_")
 }
 
+#' Procurar refresh
+#'
+#'
+procurar_refresh <- function(path){
+  r <- xml2::read_html(n) %>%
+    rvest::html_nodes("meta") %>%
+    rvest::html_attr("content")
+}
+
+
+#' GET_F
+#'
+#'
+GETF <- dplyr::failwith(F, function(url, path){
+  httr::GET(url, httr::write_disk(path = path, overwrite = T))
+  T
+}, quiet = T)
+
+#' Baixar url
+#'
+#'
+baixar_url <- function(url, path){
+  status <- GETF(url, path)
+  if(!status){
+    return(F)
+  }
+  status <- check_download(path)
+  # estratégias se não baixou
+  # algumas tem um refresh page
+  if(!status){
+    new_url <- procurar_refresh(path)
+    if(stringr::str_length(new_url) > 4 & new_url != url){
+      baixar_url(new_url, path)
+    } else {
+      status <- FALSE
+    }
+  }
+  return(status)
+}
+
 #' Baixar lista de urls
 #'
 #' @param url vetor com as urls que deseja salvar
@@ -18,6 +58,7 @@ nome_url <- function(url){
 #'
 #' @export
 baixar_urls <- function(url, dir, t = 1){
+
   a <- paste0(dir, nome_url(url))
   message(paste(length(url), "notícias serão baixadas"))
 
@@ -32,8 +73,7 @@ baixar_urls <- function(url, dir, t = 1){
     total = length(url), clear = FALSE)
 
   for(i in 1:length(url)){
-    httr::GET(url[i], httr::write_disk(path = a[i], overwrite = T))
-    controle$status[i] <- check_download(a[i])
+    controle$status[i] <- baixar_url(url[i], a[i])
     Sys.sleep(t)
     pb$tick()
   }
@@ -49,7 +89,7 @@ check_download <- function(f){
   info <- file.info(f)
   size <- info$size
   if(size < 2000){
-    return(FALSE)
+    TRUE
   } else {
     return(TRUE)
   }
@@ -78,4 +118,5 @@ processar_noticias <- function(dir){
 # c2 <- baixar_urls(url = as.character(c$url[!c$status]), dir = "data-raw/noticias2/")
 # # rodar de novo p/ os false
 
-
+# d <- tabelar_busca("data-raw/busca/")
+# aux <- baixar_urls(d$url, dir = "data-raw/noticias3/")

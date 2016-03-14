@@ -135,5 +135,3 @@ tabelar_busca <- function(dir){
   return(df)
 }
 
-
-
